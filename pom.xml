@@ -43,7 +43,7 @@
 
   <properties>
     <assembly.skipAssembly>false</assembly.skipAssembly>
-    <jetty.version>9.4.44.v20210927</jetty.version>
+    <jetty.version>10.0.14</jetty.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <smack.version>4.4.4</smack.version>
     <kotlin.version>1.5.31</kotlin.version>
